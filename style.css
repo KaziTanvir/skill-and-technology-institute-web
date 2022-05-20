@@ -1,0 +1,38 @@
+.margin-left-custom-nav{
+    padding:0 35%;
+}
+.bg-custom-orange{
+    background-color: rgb(230, 97, 26);
+
+}
+
+.heading-content {
+    font-size: 36px;
+    font-weight: 400;
+    color: aliceblue;
+}
+.custom-hr{
+    width: 250px;
+    color: aliceblue;
+    
+}
+.custom-hr-dark{
+    width: 250px;
+    color: black;
+}
+.heading-content-dark{
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.bg-custom-container{
+    background-color: #F88A29;
+}
+.body-content{
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.cus-pad{
+    padding: 0 500px;
+}
